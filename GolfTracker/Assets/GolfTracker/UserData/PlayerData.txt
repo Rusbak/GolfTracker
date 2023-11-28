@@ -1,0 +1,4 @@
+Mikkel,46.4,47,none
+Nicoline,47.5,47,none
+Britta,51.1,41,none
+Morten,24.7,55,none
